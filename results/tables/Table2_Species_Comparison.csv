@@ -1,0 +1,6 @@
+Species,Genome Size (Mb),Protein Count,Avg Length,GC Content (%),Avg Charge,Hydrophobicity
+Cyanothece,4.5,4487,350,52,0.1,0.6
+Synechocystis,3.8,3713,320,48,-0.2,0.5
+Prochlorococcus,4.6,4458,280,55,0.3,0.4
+Synechococcus,1.5,1515,310,45,-0.1,0.7
+Microcystis,1.8,1933,340,50,0.0,0.5

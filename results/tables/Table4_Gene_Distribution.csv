@@ -1,0 +1,9 @@
+Species,Core_Genes,Accessory_Genes,Unique_Genes,Singleton_Genes
+Cyanothece,133,234,10,22
+Synechocystis,174,158,29,40
+Prochlorococcus,108,193,20,46
+Synechococcus,138,174,41,28
+Microcystis,166,108,92,36
+Trichodesmium,122,262,48,13
+Thermosynechococcus,139,74,54,28
+Gloeobacter,103,182,66,19

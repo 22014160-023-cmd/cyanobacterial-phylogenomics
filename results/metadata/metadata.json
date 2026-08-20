@@ -1,0 +1,28 @@
+{
+  "analysis": {
+    "name": "Cyanobacterial Phylogenomics",
+    "date": "2026-08-20T11:33:10.922985",
+    "output_directory": "/content/drive/MyDrive/Cyanobacterial_Evolution/Final_Results/Publication_Ready_2026-08-20_11-32-58",
+    "total_figures": 5,
+    "total_tables": 5
+  },
+  "figures": {
+    "Figure1": "Proteome Statistics (Length, GC, Charge, Hydrophobicity)",
+    "Figure2": "PCA Analysis with Loadings",
+    "Figure3": "Correlation Heatmap",
+    "Figure4": "Amino Acid Composition",
+    "Figure5": "Radar Chart - Species Profiles"
+  },
+  "tables": {
+    "Table1": "Summary Statistics",
+    "Table2": "Species Comparison",
+    "Table3": "Ortholog Statistics",
+    "Table4": "Gene Distribution",
+    "Table5": "Selection Pressure"
+  },
+  "citation": {
+    "orthofinder": "Emms D.M. & Kelly S. (2019), Genome Biology 20:238",
+    "iqtree": "Nguyen et al. (2015), Mol. Biol. Evol. 32:268-274",
+    "mafft": "Katoh & Standley (2013), Mol. Biol. Evol. 30:772-780"
+  }
+}
