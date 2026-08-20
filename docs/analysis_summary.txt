@@ -1,0 +1,27 @@
+==============================================================================
+CYANOBACTERIAL PHYLOGENOMIC ANALYSIS - RESULTS
+==============================================================================
+
+ANALYSIS DETAILS:
+  - Genomes analyzed: 8
+  - Total orthogroups: 3,997
+  - Single-copy core orthologs: 228
+  - Concatenated alignment length: 96,612 positions
+  - Phylogenetic model: Q.pfam+G4
+  - Bootstrap replicates: 1,000
+  - SH-aLRT replicates: 1,000
+
+FILES INCLUDED:
+  - Cyanobacterial_Core_Phylogeny.treefile: Main tree (Newick format)
+  - Cyanobacterial_Core_Phylogeny.contree: Bootstrap consensus tree
+  - Cyanobacterial_Core_Phylogeny.iqtree: Full IQ-TREE report
+  - concatenated_core_proteins.fasta: 96,612 position alignment
+  - single_copy_core_orthologs.tsv: List of 228 core genes
+  - Core_Orthologs/: Individual FASTA files for each core gene
+  - Aligned_Core_Orthologs/: MAFFT alignments for each core gene
+
+CITATION:
+  When publishing, please cite:
+  - OrthoFinder: Emms D.M. & Kelly S. (2019), Genome Biology 20:238
+  - IQ-TREE: Nguyen et al. (2015), Mol. Biol. Evol. 32:268-274
+  - MAFFT: Katoh & Standley (2013), Mol. Biol. Evol. 30:772-780
